@@ -1,0 +1,22 @@
+:root{
+    --primary: #464665;
+    --secondary: #6D4B64;
+    --text: #FFF;
+    --textDArk:#333;
+    --accent: #E97A3C;
+    --backgroundSubtle: #EDE2DE;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url();
+}
+
+.h1{
+    font-family: "Lato", sans-serif;
+}
+
+/* .container{
+    background-color:aqua;
+    color: hotpink;
+} */
